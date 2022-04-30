@@ -1,4 +1,4 @@
-Freq (kHz);V1 (V);Escala ch 1 (V);Error V1 (V);V2 (V);Escala ch 2 (V);Error V2 (V);Fase (°);Error fase (°);T;T Error
+Freq (kHz);V1 (V);Escala ch 1 (V);Error V1 (V);V2 (V);Escala ch 2 (V);Error V2 (V);Fase;Error Fase;T;T Error
 0.53;4.16;2;0.067843137;0.34;0.2;0.013843137;-86;2;0.168;0.003578897
 1.03;4.16;2;0.067843137;0.64;0.5;0.022843137;-82;2;0.32;0.006037188
 1.53;4.08;2;0.067843137;0.92;0.5;0.022843137;-78;2;0.46;0.006738353
